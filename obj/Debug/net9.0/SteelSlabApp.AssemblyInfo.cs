@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("SteelSlabApp")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a92aca8b588142d0cde1621215ab2012a6748084")]
 [assembly: System.Reflection.AssemblyProductAttribute("SteelSlabApp")]
 [assembly: System.Reflection.AssemblyTitleAttribute("SteelSlabApp")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
